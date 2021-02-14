@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gonzalo!</h1>
 <h3 align="center">I'm a UX / UI Designer!⚡️ </h3>
 
-<p align="left"> <a href="https://twitter.com/gonzaloalfarof" target="blank"><img src="https://img.shields.io/twitter/follow/gonzaloalfarof?logo=twitter&style=for-the-badge" alt="gonzaloalfarof" /></a> </p>
-
 - 💬 Ask me about: **UX, UI, Product Design 🚀 and why not about code 😃**
 
 
@@ -18,6 +16,8 @@
 <a href="https://dribbble.com/gonzaloalfaro" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="gonzaloalfaro" height="30" width="40" /></a>
 <a href="https://www.behance.net/gonzaloalfaro" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="gonzaloalfaro" height="30" width="40" /></a>
 </p>
-
+<br>
+<p align="left"> <a href="https://twitter.com/gonzaloalfarof" target="blank"><img src="https://img.shields.io/twitter/follow/gonzaloalfarof?logo=twitter&style=for-the-badge" alt="gonzaloalfarof" /></a> </p>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gonzaloalfaro&label=Profile%20views&color=0e75b6&style=flat" alt="gonzaloalfaro" /> </p>
 
