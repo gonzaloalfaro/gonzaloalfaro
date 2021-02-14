@@ -9,11 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gonzaloalfarof" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gonzaloalfarof" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gonzaloalfarof" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gonzaloalfarof" height="30" width="40" /></a>
-<a href="https://instagram.com/gonzaloalfarof" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gonzaloalfarof" height="30" width="40" /></a>
-<a href="https://dribbble.com/gonzaloalfaro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="gonzaloalfaro" height="30" width="40" /></a>
-<a href="https://www.behance.net/gonzaloalfaro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="gonzaloalfaro" height="30" width="40" /></a>
+<a href="https://twitter.com/gonzaloalfarof" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gonzaloalfarof" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gonzaloalfarof" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gonzaloalfarof" height="30" width="40" /></a>
+<a href="https://instagram.com/gonzaloalfarof" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gonzaloalfarof" height="30" width="40" /></a>
+<a href="https://dribbble.com/gonzaloalfaro" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="gonzaloalfaro" height="30" width="40" /></a>
+<a href="https://www.behance.net/gonzaloalfaro" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="gonzaloalfaro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
