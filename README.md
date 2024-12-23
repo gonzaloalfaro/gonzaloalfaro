@@ -7,10 +7,6 @@ Hi there. 👋 I'm a technology enthusiast, and I'm absolutely in love with brin
 
 🛠️ Right now, I'm having a blast exploring AI tools like CrewAI and building super innovative projects with Astro, Strapi, and AWS.
 
-
-
-
-<p  align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=gonzaloalfaro" alt="visitor badge"/></p>
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/gonzaloalfaro?style=social)](https://www.github.com/gonzaloalfaro)
@@ -19,6 +15,7 @@ Hi there. 👋 I'm a technology enthusiast, and I'm absolutely in love with brin
 [![Website Badge](https://img.shields.io/badge/-gonzaloalfaro.com-darkblue?style=flat-square&logo=Safari&logoColor=white&link=http://www.gonzaloalfaro.com)](https://www.gonzaloalfaro.com/)
 
 <br/>
+<p  align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=gonzaloalfaro" alt="visitor badge"/></p>
 <br/>
 
 
