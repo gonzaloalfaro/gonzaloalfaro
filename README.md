@@ -20,7 +20,7 @@ Hi there. 👋 I'm a technology enthusiast, and I'm absolutely in love with brin
 
 
 > First say to yourself what you would be;
-and then do what you have to do.
+and then do what you have to do. <br/>
 > — Epictetus
 
 
