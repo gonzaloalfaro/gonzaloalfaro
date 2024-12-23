@@ -3,7 +3,7 @@
 </div>
 <br/>
 
-Hi there. 👋 I'm a technology enthusiast, and I'm absolutely in love with bringing design and technology together to create experiences that really matter. I love working on product and web development projects, exploring AI tools and cloud computing, and sharing my journey in digital innovation.
+Hi there. 👋 I'm a <mark>technology enthusiast</mark>, and I'm absolutely in love with bringing design and technology together to create experiences that really matter. I love working on product and web development projects, exploring AI tools and cloud computing, and sharing my journey in digital innovation.
 
 🛠️ Right now, I'm having a blast exploring AI tools like CrewAI and building super interesting projects with Astro, React, Nextjs, Strapi, and AWS.
 
