@@ -21,6 +21,7 @@ Hi there. 👋 I'm a Digital Product Consultant, and I'm absolutely in love with
 <br/>
 <br/>
 
+
 > First say to yourself what you would be;
 and then do what you have to do.
 > — Epictetus
@@ -29,3 +30,6 @@ and then do what you have to do.
 <div align="right">
 
 <br/>  
+
+[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/gonzaloalfaro/gonzaloalfaro/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
+<br/>
