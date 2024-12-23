@@ -3,15 +3,15 @@
 </div>
 <br/>
 
-Hi there. 👋 I'm a technology enthusiast, and I'm absolutely in love with bringing design and technology together to create experiences that really matter. I love working on product and web development projects, exploring AI tools and the cloud, and sharing my journey in digital innovation.
+Hi there. 👋 I'm a technology enthusiast, and I'm absolutely in love with bringing design and technology together to create experiences that really matter. I love working on product and web development projects, exploring AI tools and cloud computing, and sharing my journey in digital innovation.
 
-🛠️ Right now, I'm having a blast exploring AI tools like CrewAI and building super innovative projects with Astro, Strapi, and AWS.
+🛠️ Right now, I'm having a blast exploring AI tools like CrewAI and building super interesting projects with Astro, React, Nextjs, Strapi, and AWS.
 
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/gonzaloalfaro?style=social)](https://www.github.com/gonzaloalfaro)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gonzaloalfarof?style=social)](https://www.x.com/gonzaloalfarof)
-[![Linkedin Badge](https://img.shields.io/badge/-gonzaloalfaorf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzaloalfarof/)](https://www.linkedin.com/in/gonzaloalfarof/)
+[![Linkedin Badge](https://img.shields.io/badge/-gonzaloalfarof-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzaloalfarof/)](https://www.linkedin.com/in/gonzaloalfarof/)
 [![Website Badge](https://img.shields.io/badge/-gonzaloalfaro.com-darkblue?style=flat-square&logo=Safari&logoColor=white&link=http://www.gonzaloalfaro.com)](https://www.gonzaloalfaro.com/)
 
 <br/>
