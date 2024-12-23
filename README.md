@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/gonzaloalfaro/gonzaloalfaro/blob/main/final1a.webp" alt="eatsleepcode" width="800" height="242" />
+<img src="https://github.com/gonzaloalfaro/gonzaloalfaro/blob/main/final1a.webp" alt="eatsleepcode" height="auto" />
 </div>
 <br/>
 
