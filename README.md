@@ -11,6 +11,7 @@ Hi there. 👋 I'm a <mark>technology enthusiast</mark>, and I'm absolutely in l
 
 [![GitHub followers](https://img.shields.io/github/followers/gonzaloalfaro?style=social)](https://www.github.com/gonzaloalfaro)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gonzaloalfarof?style=social)](https://www.x.com/gonzaloalfarof)
+[![Linkedin profile](https://img.shields.io/badge/LinkedIn:-blue?style=flat&logo=linkedin&labelColor=blue/gonzaloalfaro)](https://www.linkedin.com/in/gonzaloalfarof/)
 [![Linkedin Badge](https://img.shields.io/badge/-gonzaloalfarof-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzaloalfarof/)](https://www.linkedin.com/in/gonzaloalfarof/)
 [![Website Badge](https://img.shields.io/badge/-gonzaloalfaro.com-darkblue?style=flat-square&logo=Safari&logoColor=white&link=http://www.gonzaloalfaro.com)](https://www.gonzaloalfaro.com/)
 
